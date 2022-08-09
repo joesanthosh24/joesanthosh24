@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/kd35ezysniper"><img src="https://api.daily.dev/devcards/9e7da0904fe44397a9c31c4e3250cf56.png?r=er8" width="400" alt="Joe Santhosh's Dev Card"/></a>
+<a href="https://app.daily.dev/joesanthosh24"><img src="https://api.daily.dev/devcards/9e7da0904fe44397a9c31c4e3250cf56.png?r=ql9" width="400" alt="Joe Santhosh's Dev Card"/></a>
 
 - 👋 Hi, I’m @joesanthosh24
 - 👀 I’m interested in web, mobile and AR development
