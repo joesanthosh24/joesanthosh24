@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @joesanthosh24
 - 👀 I’m interested in web, mobile and AR development
-- 🌱 I’m currently learning React Native, iOS Development
+- 🌱 I’m currently learning React Native, iOS Development. I am a consultant from Wiley's Edge working for UI project in Morgan Stanley
 - 📫 How to reach me: 
     * email: joe.santhosh88@yahoo.com
     * linkedin: https://www.linkedin.com/in/joe-santhosh-183770123/
